@@ -32,6 +32,11 @@
 $ npm install
 ```
 
+1. Initialised project using "nest new DI"
+2. Created Modules using "nest g module computer/cpu/disk/power" 
+3. Created Services using "nest g service cpu/disk/power"
+4. Created Controller using "nest g controller computer"
+
 ## Compile and run the project
 
 ```bash
